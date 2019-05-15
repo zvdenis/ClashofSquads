@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\zvden\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\zvden\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Clash of Squads.1292383028.00" t="ExcludeRecursive" />
+    <e p="C:\Users\zvden\Documents\Clash of Squads" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BotInfo" t="Include">
+          <e p="GamePlan(1).txt" t="Include" />
+        </e>
+        <e p="catapult_script.cs" t="Include" />
+        <e p="EModules" t="Include">
+          <e p="Auto-Save" t="Include">
+            <e p="AutoSave.cs" t="Include" />
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+        </e>
+        <e p="LowpolyWeaponPack" t="Include">
+          <e p="ReadMe.txt" t="Include" />
+        </e>
+        <e p="MOBA and Tower Defense" t="Include">
+          <e p="info.txt" t="Include" />
+        </e>
+        <e p="ProceduralUIImage" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ModifierUtility.cs" t="Include" />
+            <e p="ProceduralImageEditor.cs" t="Include" />
+            <e p="ProceduralImageEditorUtility.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Attributes" t="Include">
+              <e p="ModifierID.cs" t="Include" />
+            </e>
+            <e p="EmptySprite.cs" t="Include" />
+            <e p="MaterialHelper.cs" t="Include" />
+            <e p="Modifiers" t="Include">
+              <e p="CustomPremadeModifier.cs" t="Include" />
+              <e p="FreeModifier.cs" t="Include" />
+              <e p="OnlyOneEdgeModifier.cs" t="Include" />
+              <e p="RoundModifier.cs" t="Include" />
+              <e p="UniformModifier.cs" t="Include" />
+            </e>
+            <e p="ProceduralImage.cs" t="Include" />
+            <e p="ProceduralImageModifier.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="ProceduralImageRuntime.shader" t="Include" />
+          </e>
+        </e>
+        <e p="RunScript.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="ArcherScript.cs" t="Include" />
+          <e p="BallisticProjectile.cs" t="Include" />
+          <e p="BlueBaseScript.cs" t="Include" />
+          <e p="BlueNodeScript.cs" t="Include" />
+          <e p="BotScript.cs" t="Include" />
+          <e p="ButtonScript.cs" t="Include" />
+          <e p="CameraMoveScript.cs" t="Include" />
+          <e p="CatapultScript.cs" t="Include" />
+          <e p="DullScript.cs" t="Include" />
+          <e p="FollowingProjectile.cs" t="Include" />
+          <e p="GameInfo.cs" t="Include" />
+          <e p="MainMenuScript.cs" t="Include" />
+          <e p="MiddlePointScript.cs" t="Include" />
+          <e p="Pathfinding.cs" t="Include" />
+          <e p="PinchZoom.cs" t="Include" />
+          <e p="PlayerInfo.cs" t="Include" />
+          <e p="PlayerResources.cs" t="Include" />
+          <e p="ShopUnit.cs" t="Include" />
+          <e p="SpearmanScript.cs" t="Include" />
+          <e p="Target.cs" t="Include" />
+          <e p="TerrainScript.cs" t="Include" />
+          <e p="TowerScript.cs" t="Include" />
+          <e p="UIcontrollerScript.cs" t="Include" />
+          <e p="UnitScript.cs" t="Include" />
+        </e>
+        <e p="sda.cs" t="Include" />
+        <e p="VertexColorFarmAnimals" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="VertexColorUnlit.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Clash of Squads.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
